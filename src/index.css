@@ -1,0 +1,25 @@
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+body{
+    margin: auto;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    
+}
